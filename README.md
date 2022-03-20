@@ -1,6 +1,6 @@
 ## Olá 👋👨‍💻
 ## Me chamo Jefferson
-## Sou Desenvolvedor Web Full Stack
+## Sou Desenvolvedor Web Front End
 ## Um amante da Tecnologia e Informática
 <div align="center">
   <a href="https://github.com/Neo-Info/Neo-Info">
